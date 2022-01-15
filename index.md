@@ -2,6 +2,6 @@
 layout: default
 ---
 
-<img src="./photo.jpg" alt="Yao Wang" width="360" height="270" />
+<img src="./photo.jpg" alt="Yao Wang" width="500" height="375" />
 
-[Courses](./courses.html).
+[Courses](./courses.html)
