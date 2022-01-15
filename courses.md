@@ -3,7 +3,7 @@ title: Courses
 description: Courses Taken During My Undergraduate Studies
 ---
 
-# WINTER 2022
+## WINTER 2022
 
 | Course Code  | Course Name                                         |
 |:-------------|:----------------------------------------------------|
@@ -14,11 +14,17 @@ description: Courses Taken During My Undergraduate Studies
 | PSYCH 361    | [Evolutionary Psychology][PSYCH 361]                |
 | EMLS 102R    | [Clear Communication in English Writing][EMLS 102R] |
 
-# FALL 2021
+## FALL 2021
 
 | Course Code  | Course Name                                         |
 |:-------------|:----------------------------------------------------|
 | CS 360       | [Introduction to the Theory of Computing][CS 360]   |
+
+## SPRING 2021
+
+| Course Code  | Course Name                                         |
+|:-------------|:----------------------------------------------------|
+| CS 348       | [Introduction to Database Management][CS 348]       |
 
 
 [CS 451]: http://www.ucalendar.uwaterloo.ca/2122/COURSE/course-CS.html#CS451
@@ -30,6 +36,7 @@ description: Courses Taken During My Undergraduate Studies
 
 [CS 360]: http://www.ucalendar.uwaterloo.ca/2122/COURSE/course-CS.html#CS360
 
+[CS 348]: http://www.ucalendar.uwaterloo.ca/2021/COURSE/course-CS.html#CS348
 
 <!--
 
@@ -84,7 +91,5 @@ description: Courses Taken During My Undergraduate Studies
 	 <tr><td><a href="http://www.ucalendar.uwaterloo.ca/2021/COURSE/course-STAT.html#STAT333">STAT 333</a></td><td> Applied Probability (Stochastic Processes)</td></tr>
         <tr><td><a href="http://www.ucalendar.uwaterloo.ca/2021/COURSE/course-STAT.html#STAT341">STAT 341</a></td><td> Computational Statistics and Data Analysis</td></tr>
         <tr><td><a href="http://www.ucalendar.uwaterloo.ca/2021/COURSE/course-PSYCH.html#PSYCH207">PSYCH 207</a></td><td> Cognitive Processes</td></tr>
-	<tr><th>SPRING 2021</th></tr>
-	<tr><td><a href="http://www.ucalendar.uwaterloo.ca/2021/COURSE/course-CS.html#CS348">CS 348</a></td><td> Introduction to Database Management</td></tr>
 
 -->
