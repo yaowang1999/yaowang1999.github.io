@@ -1,4 +1,4 @@
-# WINTER 2022
+## WINTER 2022
 
 | Course Code  | Course Name                                         |
 |:-------------|:----------------------------------------------------|
@@ -9,7 +9,7 @@
 | PSYCH 361    | [Evolutionary Psychology][PSYCH 361]                |
 | EMLS 102R    | [Clear Communication in English Writing][EMLS 102R] |
 
-# FALL 2021
+## FALL 2021
 
 | Course Code  | Course Name                                         |
 |:-------------|:----------------------------------------------------|
