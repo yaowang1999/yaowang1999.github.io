@@ -59,6 +59,31 @@ description: Courses Taken During My Undergraduate Studies
 |:-------------|:-------------------------------------------------------|
 | PSYCH 101    | [Introductory Psychology][PSYCH 101]                   |
 
+## Fall 2019
+
+| Course Code  | Course Name                                            |
+|:-------------|:-------------------------------------------------------|
+| CS 341       | [Algorithms][CS 341]                                   |
+| CS 350       | [Operating Systems][CS 350]                            |
+| CS 484       | [Computational Vision][CS 484]                         |
+| CO 330       | [Combinatorial Enumeration][CO 330]                    |
+
+## Spring 2019
+
+| Course Code  | Course Name                                            |
+|:-------------|:-------------------------------------------------------|
+| CS 370       | [Numerical Computation][CS 370]                        |
+
+## Winter 2019
+
+| Course Code  | Course Name                                            |
+|:-------------|:-------------------------------------------------------|
+| CS 240       | [Data Structures and Data Management][CS 240]          |
+| CS 251       | [Computer Organization and Design][CS 251]             |
+| MATH 239     | [Introduction to Combinatorics][MATH 239]              |
+| CO 250       | [Introduction to Optimization][CO 250]                 |
+| STAT 330     | [Mathematical Statistics][STAT 330]                    |
+
 
 [CS 451]: http://www.ucalendar.uwaterloo.ca/2122/COURSE/course-CS.html#CS451
 [STAT 331]: http://www.ucalendar.uwaterloo.ca/2122/COURSE/course-STAT.html#STAT331
@@ -88,6 +113,19 @@ description: Courses Taken During My Undergraduate Studies
 
 [PSYCH 101]: http://www.ucalendar.uwaterloo.ca/1920/COURSE/course-PSYCH.html#PSYCH101
 
+[CS 341]: http://www.ucalendar.uwaterloo.ca/1920/COURSE/course-CS.html#CS341
+[CS 350]: http://www.ucalendar.uwaterloo.ca/1920/COURSE/course-CS.html#CS350
+[CS 484]: http://www.ucalendar.uwaterloo.ca/1920/COURSE/course-CS.html#CS484
+[CO 330]: http://www.ucalendar.uwaterloo.ca/1920/COURSE/course-CO.html#CO330
+
+[CS 370]: http://www.ucalendar.uwaterloo.ca/1819/COURSE/course-CS.html#CS370
+
+[CS 240]: http://www.ucalendar.uwaterloo.ca/1819/COURSE/course-CS.html#CS240
+[CS 251]: http://www.ucalendar.uwaterloo.ca/1819/COURSE/course-CS.html#CS251
+[MATH 239]: http://www.ucalendar.uwaterloo.ca/1819/COURSE/course-MATH.html#MATH239
+[CO 250]: http://www.ucalendar.uwaterloo.ca/1819/COURSE/course-CO.html#CO250
+[STAT 330]: http://www.ucalendar.uwaterloo.ca/1819/COURSE/course-STAT.html#STAT330
+
 
 <!--
 
@@ -112,20 +150,5 @@ description: Courses Taken During My Undergraduate Studies
         <tr><td><a href="http://www.ucalendar.uwaterloo.ca/1819/COURSE/course-STAT.html#STAT231">STAT 231</a></td><td> Statistics</td></tr>
         <tr><th>FALL 2018</th></tr>
         <tr><td><a href="http://www.ucalendar.uwaterloo.ca/1819/COURSE/course-CS.html#CS241E">CS 241E</td><td> Foundations of Sequential Programs (Enriched)</td></tr>
-        <tr><th>WINTER 2019</th></tr>
-        <tr><td><a href="http://www.ucalendar.uwaterloo.ca/1819/COURSE/course-CS.html#CS240">CS 240</a></td><td> Data Structures and Data Management</td></tr>
-        <tr><td><a href="http://www.ucalendar.uwaterloo.ca/1819/COURSE/course-CS.html#CS251">CS 251</a></td><td> Computer Organization and Design</td></tr>
-        <tr><td><a href="http://www.ucalendar.uwaterloo.ca/1819/COURSE/course-MATH.html#MATH239">MATH 239</a></td><td> Introduction to Combinatorics</td></tr>
-        <tr><td><a href="http://www.ucalendar.uwaterloo.ca/1819/COURSE/course-CO.html#CO250">CO 250</a></td><td> Introduction to Optimization</td></tr>
-        <tr><td><a href="http://www.ucalendar.uwaterloo.ca/1819/COURSE/course-STAT.html#STAT330">STAT 330</a></td><td> Mathematical Statistics</td></tr>
-        <tr><th>SPRING 2019)</th></tr>
-        <tr><td><a href="http://www.ucalendar.uwaterloo.ca/1920/COURSE/course-CS.html#CS370">CS 370</td><td> Numerical Computation</td></tr>
-        <tr><th>FALL 2019</th></tr>
-        <tr><td><a href="http://www.ucalendar.uwaterloo.ca/1920/COURSE/course-CS.html#CS341">CS 341</a></td><td> Algorithms</td></tr>
-        <tr><td><a href="http://www.ucalendar.uwaterloo.ca/1920/COURSE/course-CS.html#CS350">CS 350</a></td><td> Operating Systems</td></tr>
-        <tr><td><a href="http://www.ucalendar.uwaterloo.ca/1920/COURSE/course-CS.html#CS484">CS 484</a></td><td> Computational Vision</td></tr>
-        <tr><td><a href="http://www.ucalendar.uwaterloo.ca/1920/COURSE/course-CO.html#CO330">CO 330</a></td><td> Combinatorial Enumeration</td></tr>
-        
-        
 
 -->
