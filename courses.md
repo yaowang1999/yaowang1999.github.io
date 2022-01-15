@@ -3,28 +3,61 @@ title: Courses
 description: Courses Taken During My Undergraduate Studies
 ---
 
-## WINTER 2022
+## Winter 2022
 
-| Course Code  | Course Name                                         |
-|:-------------|:----------------------------------------------------|
-| CS 451       | [Data-Intensive Distributed Computing][CS 451]      |
-| STAT 331     | [Applied Linear Model][STAT 331]                    |
-| STAT 450     | [Estimation and Hypothesis Testing][STAT 450]       |
-| AMATH 331    | [Applied Real Analysis][AMATH 331]                  |
-| PSYCH 361    | [Evolutionary Psychology][PSYCH 361]                |
-| EMLS 102R    | [Clear Communication in English Writing][EMLS 102R] |
+| Course Code  | Course Name                                            |
+|:-------------|:-------------------------------------------------------|
+| CS 451       | [Data-Intensive Distributed Computing][CS 451]         |
+| STAT 331     | [Applied Linear Model][STAT 331]                       |
+| STAT 450     | [Estimation and Hypothesis Testing][STAT 450]          |
+| AMATH 331    | [Applied Real Analysis][AMATH 331]                     |
+| PSYCH 361    | [Evolutionary Psychology][PSYCH 361]                   |
+| EMLS 102R    | [Clear Communication in English Writing][EMLS 102R]    |
 
-## FALL 2021
+## Fall 2021
 
-| Course Code  | Course Name                                         |
-|:-------------|:----------------------------------------------------|
-| CS 360       | [Introduction to the Theory of Computing][CS 360]   |
+| Course Code  | Course Name                                            |
+|:-------------|:-------------------------------------------------------|
+| CS 360       | [Introduction to the Theory of Computing][CS 360]      |
 
-## SPRING 2021
+## Spring 2021
 
-| Course Code  | Course Name                                         |
-|:-------------|:----------------------------------------------------|
-| CS 348       | [Introduction to Database Management][CS 348]       |
+| Course Code  | Course Name                                            |
+|:-------------|:-------------------------------------------------------|
+| CS 348       | [Introduction to Database Management][CS 348]          |
+
+## Winter 2021
+
+| Course Code  | Course Name                                            |
+|:-------------|:-------------------------------------------------------|
+| CS 489       | [Neural Networks][CS 489]                              |
+| CO 331       | [Coding Theory][CO 331]                                |
+| CO 487       | [Applied Cryptography][CO 487]                         |
+| STAT 333     | [Applied Probability (Stochastic Processes)][STAT 333] |
+| STAT 341     | [Computational Statistics and Data Analysis][STAT 341] |
+| PSYCH 207    | [Cognitive Processes][PSYCH 207]                       |
+
+## Fall 2020
+
+| Course Code  | Course Name                                            |
+|:-------------|:-------------------------------------------------------|
+| CS 480       | [Introduction to Machine Learning][CS 480]             |
+
+## Spring 2020
+
+| Course Code  | Course Name                                            |
+|:-------------|:-------------------------------------------------------|
+| CS 466       | [Algorithm Design and Analysis][CS 466]                |
+| CS 486       | [Introduction to Artificial Intelligence][CS 486]      |
+| CO 342       | [Introduction to Graph Theory][CO 342]                 |
+| CO 351       | [Network Flow Theory][CO 351]                          |
+| PMATH 347    | [Groups and Rings][PMATH 347]                          |
+
+## Winter 2020
+
+| Course Code  | Course Name                                            |
+|:-------------|:-------------------------------------------------------|
+| PSYCH 101    | [Introductory Psychology][PSYCH 101]                   |
 
 
 [CS 451]: http://www.ucalendar.uwaterloo.ca/2122/COURSE/course-CS.html#CS451
@@ -37,6 +70,24 @@ description: Courses Taken During My Undergraduate Studies
 [CS 360]: http://www.ucalendar.uwaterloo.ca/2122/COURSE/course-CS.html#CS360
 
 [CS 348]: http://www.ucalendar.uwaterloo.ca/2021/COURSE/course-CS.html#CS348
+
+[CS 489]: http://www.ucalendar.uwaterloo.ca/2021/COURSE/course-CS.html#CS489
+[CO 331]: http://www.ucalendar.uwaterloo.ca/2021/COURSE/course-CO.html#CO331
+[CO 487]: http://www.ucalendar.uwaterloo.ca/2021/COURSE/course-CO.html#CO487
+[STAT 333]: http://www.ucalendar.uwaterloo.ca/2021/COURSE/course-STAT.html#STAT333
+[STAT 341]: http://www.ucalendar.uwaterloo.ca/2021/COURSE/course-STAT.html#STAT341
+[PSYCH 207]: http://www.ucalendar.uwaterloo.ca/2021/COURSE/course-PSYCH.html#PSYCH207
+
+[CS 480]: http://www.ucalendar.uwaterloo.ca/2021/COURSE/course-CS.html#CS480
+
+[CS 466]: http://www.ucalendar.uwaterloo.ca/1920/COURSE/course-CS.html#CS466
+[CS 486]: http://www.ucalendar.uwaterloo.ca/1920/COURSE/course-CS.html#CS486
+[CO 342]: http://www.ucalendar.uwaterloo.ca/1920/COURSE/course-CO.html#CO342
+[CO 351]: http://www.ucalendar.uwaterloo.ca/1920/COURSE/course-CO.html#CO351
+[PMATH 347]: http://www.ucalendar.uwaterloo.ca/1920/COURSE/course-PMATH.html#PMATH347
+
+[PSYCH 101]: http://www.ucalendar.uwaterloo.ca/1920/COURSE/course-PSYCH.html#PSYCH101
+
 
 <!--
 
@@ -74,22 +125,7 @@ description: Courses Taken During My Undergraduate Studies
         <tr><td><a href="http://www.ucalendar.uwaterloo.ca/1920/COURSE/course-CS.html#CS350">CS 350</a></td><td> Operating Systems</td></tr>
         <tr><td><a href="http://www.ucalendar.uwaterloo.ca/1920/COURSE/course-CS.html#CS484">CS 484</a></td><td> Computational Vision</td></tr>
         <tr><td><a href="http://www.ucalendar.uwaterloo.ca/1920/COURSE/course-CO.html#CO330">CO 330</a></td><td> Combinatorial Enumeration</td></tr>
-        <tr><th>WINTER 2020</th></tr>
-        <tr><td><a href="http://www.ucalendar.uwaterloo.ca/1920/COURSE/course-PSYCH.html#PSYCH101">PSYCH 101</a></td><td> Introductory Psychology</td></tr>
-        <tr><th>SPRING 2020</th></tr>
-        <tr><td><a href="http://www.ucalendar.uwaterloo.ca/2021/COURSE/course-CS.html#CS466">CS 466</a></td><td> Algorithm Design and Analysis</td></tr>
-        <tr><td><a href="http://www.ucalendar.uwaterloo.ca/2021/COURSE/course-CS.html#CS486">CS 486</a></td><td> Introduction to Artificial Intelligence</td></tr>
-        <tr><td><a href="http://www.ucalendar.uwaterloo.ca/2021/COURSE/course-CO.html#CO342">CO 342</a></td><td> Introduction to Graph Theory</td></tr>
-        <tr><td><a href="http://www.ucalendar.uwaterloo.ca/2021/COURSE/course-CO.html#CO351">CO 351</a></td><td> Network Flow Theory</td></tr>
-        <tr><td><a href="http://www.ucalendar.uwaterloo.ca/2021/COURSE/course-PMATH.html#PMATH347">PMATH 347</a></td><td> Groups and Rings</td></tr>
-        <tr><th>FALL 2020</th></tr>
-        <tr><td><a href="http://www.ucalendar.uwaterloo.ca/2021/COURSE/course-CS.html#CS480">CS 480</a></td><td> Introduction to Machine Learning</td></tr>
-        <tr><th>WINTER 2021</th></tr>
-        <tr><td><a href="http://www.ucalendar.uwaterloo.ca/2021/COURSE/course-CS.html#CS489">CS 489</a></td><td> Neural Networks</td></tr>
-	<tr><td><a href="http://www.ucalendar.uwaterloo.ca/2021/COURSE/course-CO.html#CO331">CO 331</a></td><td> Coding Theory</td></tr>
-        <tr><td><a href="http://www.ucalendar.uwaterloo.ca/2021/COURSE/course-CO.html#CO487">CO 487</a></td><td> Applied Cryptography</td></tr>
-	 <tr><td><a href="http://www.ucalendar.uwaterloo.ca/2021/COURSE/course-STAT.html#STAT333">STAT 333</a></td><td> Applied Probability (Stochastic Processes)</td></tr>
-        <tr><td><a href="http://www.ucalendar.uwaterloo.ca/2021/COURSE/course-STAT.html#STAT341">STAT 341</a></td><td> Computational Statistics and Data Analysis</td></tr>
-        <tr><td><a href="http://www.ucalendar.uwaterloo.ca/2021/COURSE/course-PSYCH.html#PSYCH207">PSYCH 207</a></td><td> Cognitive Processes</td></tr>
+        
+        
 
 -->
